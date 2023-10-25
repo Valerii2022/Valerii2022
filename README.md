@@ -18,4 +18,4 @@ My stack
 </p>
 
 
- 🌱 I’m currently learning - Typescript, MySQ, React Native
+ 🌱 I’m currently learning - `Typescript`, MySQ, React Native
