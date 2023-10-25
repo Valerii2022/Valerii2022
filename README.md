@@ -4,26 +4,11 @@
 
 ## My technology stack
 
-<p>
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
-
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&svgfill=2d79c7">
-
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
-
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mongodb&svgfill=df5c43">  
-
-</p>
-
-<p>
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=f06629">
-
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=028dd1">
-
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799">
-</p>
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![ReactRouter](https://img.shields.io/badge/-ReactRouter-05122A?style=flat&logo=ReactRouter)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 
 - 💬 Connect with me
