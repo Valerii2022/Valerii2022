@@ -20,5 +20,4 @@ My stack
 
  🌱 I’m currently learning 
  `Typescript`
- `MySQ`
  `React Native`
