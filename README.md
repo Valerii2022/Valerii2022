@@ -2,7 +2,7 @@
 ### I'm Valerii, Junior Frontend Developer from Kyiv, Ukraine
 
 
-## My technology stack
+##3 My technology stack
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![ReactRouter](https://img.shields.io/badge/-ReactRouter-05122A?style=flat&logo=ReactRouter)&nbsp;
@@ -11,14 +11,14 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 
-- 💬 Connect with me
+### 💬 Connect with me
 
 <p align="left">
   <a target="_blank"href="https://www.linkedin.com/in/valerii-pometun-a63231268/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://t.me/ValeriiPometun"><img src="https://img.shields.io/badge/telegram-%231DA1F2.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
- - 🌱 I’m currently learning
+ ### 🌱 I’m currently learning
 
 - Typescript
 - MySQL
