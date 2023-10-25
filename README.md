@@ -2,7 +2,7 @@
 ### I'm Valerii, Junior Frontend Developer from Kyiv, Ukraine
 
 
-##3 My technology stack
+### My technology stack
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![ReactRouter](https://img.shields.io/badge/-ReactRouter-05122A?style=flat&logo=ReactRouter)&nbsp;
