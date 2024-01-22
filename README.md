@@ -21,3 +21,4 @@ My stack
  🌱 I’m currently learning 
  `Typescript`
  `React Native`
+ `Next.js`
