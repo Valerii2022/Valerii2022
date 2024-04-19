@@ -22,3 +22,4 @@ My stack
  `Typescript`
  `React Native`
  `Next.js`
+ `Python`
