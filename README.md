@@ -23,3 +23,4 @@ My stack
  `React Native`
  `Next.js`
  `Python`
+ `Node.js`
