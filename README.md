@@ -24,3 +24,4 @@ My stack
  `Next.js`
  `Python`
  `Node.js`
+ `WordPress`
