@@ -1,5 +1,5 @@
 Hi there 👋
-I'm Valerii, Junior Frontend Developer from Kyiv, Ukraine
+I'm Valerii, FullStack Developer from Kyiv, Ukraine
 
 
 My stack
