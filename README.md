@@ -27,3 +27,4 @@ My stack
  `Next.js`
  `Python`
  `WordPress`
+ `Tailwind CSS`
